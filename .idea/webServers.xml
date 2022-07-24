@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8789d7a1-62c0-4ae0-b9e1-d86c3432032d" name="ftp.web277.uni5.net" url="https://andreamenezes.eng.br/">
+        <fileTransfer rootFolder="/home/andreamenezes/www" accessType="SFTP" host="ftp.web277.uni5.net" port="22" sshConfigId="ef0b1399-18a0-493c-91ed-e272a5c27ec7" sshConfig="andreamenezes@ftp.web277.uni5.net:22" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

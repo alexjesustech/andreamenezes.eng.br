@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="ftp.web277.uni5.net" id="ef0b1399-18a0-493c-91ed-e272a5c27ec7" port="22" customName="andreamenezes@ftp.web277.uni5.net:22" nameFormat="CUSTOM" username="andreamenezes" useOpenSSHConfig="true">
+        <option name="customName" value="andreamenezes@ftp.web277.uni5.net:22" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

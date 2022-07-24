@@ -1,0 +1,8 @@
+version: "3.7"
+services:
+  apache:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - ./build:/usr/local/apache2/htdocs

@@ -1,0 +1,3 @@
+Options FollowSymLinks MultiViews
+Order allow,deny
+Allow from all
